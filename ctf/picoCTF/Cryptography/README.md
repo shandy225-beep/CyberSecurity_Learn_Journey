@@ -3,7 +3,7 @@
 This directory contains solutions and notes for cryptography challenges from picoCTF.
 
 These challenges cover:
-- Classical ciphers (Caesar, Vigenere, etc.)
+- Classical ciphers (Caesar, Vigenère, etc.)
 - Modern encryption algorithms
 - Hash functions
 - Public key cryptography
