@@ -27,5 +27,5 @@ exiftool img.jpg
 # Output Comment: c3Rlc2hpZGU6Y0VGNVVuVnZHVzZiYjVE
 ```
 
-![exiftool](/home/shandy/Documents/picoctf/HiddenInPlainSight_Easy)
+![exiftool](/home/shandy/CyberSecurity_Learn_Journey/ctf/picoCTF/Forensic/HiddenInPlainSight_Easy)
 
