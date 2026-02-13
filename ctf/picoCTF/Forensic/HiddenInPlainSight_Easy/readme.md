@@ -1,5 +1,5 @@
 
-# picoCTF - Forensic Challenge: Hidden In Plainsight
+# picoCTF - Forensic Challenge: Hidden In Plainsight (easy)
 
 ## 📝 Challenge Description
 
